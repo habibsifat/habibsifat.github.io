@@ -21,18 +21,20 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "sifat_photo.jpeg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I’m Md Habibur Rahman Sifat, a passionate researcher with a PhD in Computing from The Hong Kong Polytechnic University. My journey in the world of Machine Learning, Computational Biology, and Natural Language Processing (NLP) has been driven by curiosity and innovation. During my tenure as a Research Fellow at the University of Sherbrooke, I developed advanced algorithms for bioinformatics and AI applications, leading to publications in prestigious conferences like AAAI and EMNLP.
+
+My work spans from tackling phylogenetic graph problems to creating deep learning models for Bengali language processing. I thrive in multidisciplinary environments, leveraging my skills in Python, TensorFlow, and data analysis to solve complex problems. With a strong foundation in research and a commitment to advancing ocular health, I aim to contribute to groundbreaking discoveries in retinal studies. Let's connect and explore how we can drive the future of AI together!"
+  location         : "Hong Kong"
+  employer         : "The Hong Kong Polytechnic University(PolyU)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "habib.sifat@connect.polyu.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=VfDjSjIAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -57,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/habibsifat/ # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
