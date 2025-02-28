@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #3b82f6;
+  --secondary: #10b981;
+  --dark: #1f2937;
+  --light: #f9fafb;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  @apply bg-gray-50 text-gray-800;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', sans-serif;
+}
+
+.section {
+  @apply py-20 px-4 md:px-8;
+}
+
+.container {
+  @apply max-w-6xl mx-auto;
+}
+
+.btn {
+  @apply px-6 py-2 rounded-md font-medium transition-all duration-300;
+}
+
+.btn-primary {
+  @apply bg-blue-500 text-white hover:bg-blue-600;
+}
+
+.btn-outline {
+  @apply border-2 border-blue-500 text-blue-500 hover:bg-blue-500 hover:text-white;
+}
+
+.card {
+  @apply bg-white rounded-lg shadow-md overflow-hidden transition-all duration-300 hover:shadow-lg;
+}
+
+.nav-link {
+  @apply px-4 py-2 text-gray-700 hover:text-blue-500 transition-colors duration-300;
+}
+
+.nav-link.active {
+  @apply text-blue-500 font-medium;
+}
+
+.skill-badge {
+  @apply px-3 py-1 rounded-full text-sm font-medium bg-blue-100 text-blue-800 m-1;
+}
+
+.project-card {
+  @apply flex flex-col h-full;
+}
+
+.project-card img {
+  @apply w-full h-48 object-cover;
+}
+
+.social-icon {
+  @apply text-gray-600 hover:text-blue-500 transition-colors duration-300;
+}
