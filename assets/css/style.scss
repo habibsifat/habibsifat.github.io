@@ -19,7 +19,6 @@ img.logo {
 .site-title {
   white-space: nowrap;
   overflow: hidden;
-  text-overflow: ellipsis;
-  font-size: 1.5rem;
+  text-overflow: ellipsis; /* Optional: add "..." if too long */
 }
 
