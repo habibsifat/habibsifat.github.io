@@ -4,3 +4,11 @@ img.logo {
   height: 150px;
   object-fit: cover;
 }
+.site-title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis; /* Optional: adds "..." if title is too long */
+}
+// .site-title {
+//   font-size: 1.5rem; /* adjust as needed */
+// }
