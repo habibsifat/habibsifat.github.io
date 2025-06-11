@@ -28,25 +28,19 @@ Flow, Keras, PyTorch, LangChain, Huggingface, Retrieval-Augmented Generation (RA
 ## Research Publications
 ### Journal Articles
 - **M. H. R. Sifat et al.**, “AEff-UNet: Attention-based Efficient-UNet for Concrete Crack Detection,” Materials Letters (Under Review).
-- R. Amin, ..., **M. H. R. Sifat et al.**, “Ipromoter-bncnn: A novel branched CNN-based
-predictor for identifying and classifying sigma promoters,” Bioinformatics, vol. 36, no.
-19, pp. 4869–4875, 2020.
+  
+- R. Amin, ..., **M. H. R. Sifat et al.**, “Ipromoter-bncnn: A novel branched CNN-based predictor for identifying and classifying sigma promoters,” Bioinformatics, vol. 36, no. 19, pp. 4869–4875, 2020.
 
 ### Conference Proceedings
-- Bo Li, **M. H. R. Sifat**, and Ankang Sun, “Improved Approximation of Maximin Share
-Fair Allocation under Generalized Assignment Constraint,” IJTCS-FAW 2025.
+- Bo Li, **M. H. R. Sifat**, and Ankang Sun, “Improved Approximation of Maximin Share Fair Allocation under Generalized Assignment Constraint,” IJTCS-FAW 2025.
 
-- Tashin Ahmed, **M. H. R. Sifat**, “GraphKAN: Graph Kolmogorov Arnold Network for
-Small Molecule-Protein Interaction Predictions,” ICML-2024 ML4MLS workshop.
+- Tashin Ahmed, **M. H. R. Sifat**, “GraphKAN: Graph Kolmogorov Arnold Network for Small Molecule-Protein Interaction Predictions,” ICML-2024 ML4MLS workshop.
 
-- **M. H. R. Sifat**, Nadia Tahiri, “A New Algorithm to Building Comprehensive Consensus
-Trees,” in The 38th Annual AAAI Conference on Artificial Intelligence(AAAI-
-2024),GCLR workshop.
+- **M. H. R. Sifat**, Nadia Tahiri, “A New Algorithm to Building Comprehensive Consensus Trees,” in The 38th Annual AAAI Conference on Artificial Intelligence(AAAI-2024),GCLR workshop.
 
 - Linsheng Guo, **M. H. R. Sifat**, Tashin Ahmed, “Pipeline Enabling Zero-shot Classification for Bangla Handwritten Grapheme,” in The 2023 Conference on Empirical Methods in Natural Language Processing(EMNLP), BLP workshop.
 
-- **M. H. R. Sifat et al.**, “Evaluating The Effectiveness of Capsule Neural Network in Toxic Comment Classification using Pre-trained BERT Embeddings,” in 2023 IEEE Region 10
-Conference (TENCON), IEEE, 2023.
+- **M. H. R. Sifat et al.**, “Evaluating The Effectiveness of Capsule Neural Network in Toxic Comment Classification using Pre-trained BERT Embeddings,” in 2023 IEEE Region 10 Conference (TENCON), IEEE, 2023.
 
 - **M. H. R. Sifat et al.**, “Synthetic error dataset generation mimicking bengali writing pattern,” in 2020 IEEE Region 10 Symposium (TENSYMP), IEEE, 2020, pp. 1363–1366.
 
@@ -58,8 +52,7 @@ Conference (TENCON), IEEE, 2023.
 
 ## Awards and Achievements
 - Fully Funded PhD Scholarship, The Hong Kong Polytechnic University, 2020
-- Scholarship for Outstanding Academic Performance, United International University, 2017-
-2019
+- Scholarship for Outstanding Academic Performance, United International University, 2017-2019
 
 <!-- ## Projects -->
  
