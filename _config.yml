@@ -10,3 +10,11 @@ plugins:
 # Optional settings
 url: "https://habibsifat.github.io"
 baseurl: ""
+
+social_links:
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/habibsifat/
+    icon: linkedin
+  # - name: Facebook
+  #   url: https://facebook.com/your-profile
+  #   icon: facebook
