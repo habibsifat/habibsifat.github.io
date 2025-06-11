@@ -1,14 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.site-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
 img.logo {
   border-radius: 50%;
   width: 150px;
   height: 150px;
   object-fit: cover;
 }
+
 .site-title {
   white-space: nowrap;
   overflow: hidden;
-  text-overflow: ellipsis; /* Optional: adds "..." if title is too long */
+  text-overflow: ellipsis;
+  font-size: 1.5rem;
 }
-// .site-title {
-//   font-size: 1.5rem; /* adjust as needed */
-// }
+
