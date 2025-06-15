@@ -3,8 +3,6 @@
 - **Algorithms**
 - **Computational Biology**
 - **Natural Language Processing (NLP)**
-📧 [habib.sifat@connect.polyu.hk](mailto:habib.sifat@connect.polyu.hk)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/habibsifat/)
 
 ---
 
@@ -74,6 +72,11 @@ Informatics, Springer, 2020, pp. 673–681.
 ## Awards and Achievements 🏆
 - Fully Funded PhD Scholarship, The Hong Kong Polytechnic University, 2020  
 - Scholarship for Outstanding Academic Performance, United International University, 2017-2019
+
+---
+## Contacts
+📧 [habib.sifat@connect.polyu.hk](mailto:habib.sifat@connect.polyu.hk)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/habibsifat/)
 
 ---
 
