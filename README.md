@@ -3,6 +3,8 @@
 - **Algorithms**
 - **Computational Biology**
 - **Natural Language Processing (NLP)**
+📧 [habib.sifat@connect.polyu.hk](mailto:habib.sifat@connect.polyu.hk)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/habibsifat/)
 
 ---
 
